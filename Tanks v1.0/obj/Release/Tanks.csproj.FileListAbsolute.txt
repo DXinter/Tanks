@@ -1,0 +1,10 @@
+D:\Games\C#Project\Tanks v1.0\bin\Release\Tanks.exe.config
+D:\Games\C#Project\Tanks v1.0\bin\Release\Tanks.exe
+D:\Games\C#Project\Tanks v1.0\bin\Release\Tanks.pdb
+D:\Games\C#Project\Tanks v1.0\obj\Release\Tanks.csprojAssemblyReference.cache
+D:\Games\C#Project\Tanks v1.0\obj\Release\Tanks.ControllerMainForm.resources
+D:\Games\C#Project\Tanks v1.0\obj\Release\Tanks.Properties.Resources.resources
+D:\Games\C#Project\Tanks v1.0\obj\Release\Tanks.View.resources
+D:\Games\C#Project\Tanks v1.0\obj\Release\Tanks.csproj.GenerateResource.cache
+D:\Games\C#Project\Tanks v1.0\obj\Release\Tanks.exe
+D:\Games\C#Project\Tanks v1.0\obj\Release\Tanks.pdb
